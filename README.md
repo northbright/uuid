@@ -1,8 +1,8 @@
 # uuid
 
-uuid is a [Golang](http://golang.org) package which creates pseudo uuid by using crypto/rand.
-
 [![Build Status](https://travis-ci.org/northbright/uuid.svg?branch=master)](https://travis-ci.org/northbright/uuid)
+
+uuid is a [Golang](http://golang.org) package which creates pseudo uuid by using crypto/rand.
 
 #### Generate Random UUIDs
 
