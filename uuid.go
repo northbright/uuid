@@ -10,7 +10,7 @@ var (
 	DEBUG bool = false // Enable / disable debug messages from this package.
 )
 
-// New() creates pseudo uuid.
+// New creates pseudo uuid.
 func New() (uuid string, err error) {
 	b := make([]byte, 16)
 
