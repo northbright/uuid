@@ -7,7 +7,9 @@ import (
 )
 
 var (
-	DEBUG bool = false // Enable / disable debug messages from this package.
+	// DEBUG is debug mode option.
+	// Enable / disable debug messages from this package.
+	DEBUG = false
 )
 
 // New creates pseudo uuid.
