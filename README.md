@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/northbright/uuid.svg?branch=master)](https://travis-ci.org/northbright/uuid)
 [![Go Report Card](https://goreportcard.com/badge/github.com/northbright/uuid)](https://goreportcard.com/report/github.com/northbright/uuid)
+[![GoDoc](https://godoc.org/github.com/northbright/uuid?status.svg)](https://godoc.org/github.com/northbright/uuid)
 
 uuid is a [Golang](http://golang.org) package which creates pseudo uuid by using crypto/rand.
 
