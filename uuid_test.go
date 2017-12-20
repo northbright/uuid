@@ -11,5 +11,5 @@ func ExampleNew() {
 		uuid, _ := uuid.New()
 		fmt.Printf("%v\n", uuid)
 	}
-	// Output
+	// Output:
 }
