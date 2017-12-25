@@ -1,7 +1,7 @@
 package uuid_test
 
 import (
-	"fmt"
+	"log"
 
 	"github.com/northbright/uuid"
 )
@@ -9,7 +9,7 @@ import (
 func ExampleNew() {
 	for i := 0; i < 5; i++ {
 		uuid, _ := uuid.New()
-		fmt.Printf("%v\n", uuid)
+		log.Printf("%v", uuid)
 	}
 	// Output:
 }
